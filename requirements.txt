@@ -5,3 +5,4 @@ logging==0.4.9.6
 transformers==4.51.3
 torch==2.7.0
 einops==0.8.1
+ollama==0.4.8
